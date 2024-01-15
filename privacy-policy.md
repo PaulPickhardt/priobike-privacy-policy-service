@@ -136,13 +136,13 @@ Institution: TU Dresden, Professur für Verkehrsprozessautomatisierung \
 Straße: Hettnerstr. 3 \
 PLZ/ Ort: 01062 Dresden \
 Telefon: 0351 463 36718 \
-E-Mail: priobike@msx.tu-dresden.de \
+E-Mail: priobike@msx.tu-dresden.de
 
 Datenschutzbeauftragter \
 Behörde für Wirtschaft, Verkehr und Innovation \
 Straße: Alter Steinweg 4 \
 PLZ/ Ort: 20459 Hamburg \
 Telefon: +49 40 428 41-1807 \
-E-Mail: datenschutz@bwvi.hamburg.de￼ https://sentry.io \
+E-Mail: datenschutz@bwvi.hamburg.de￼ https://sentry.io
 
 Anonymisiert: Session-ID wie beschrieben, Anfang und Ende abgeschnitten, längere Aufenthalte an einem Ort entfernt.
