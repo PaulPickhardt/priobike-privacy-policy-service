@@ -35,6 +35,7 @@ Beim Nutzen der App werden keine personenbezogenen Daten erhoben. Es werden die 
 ### Reguläre Datenerfassung
 
 Routing (vor der Fahrt)Für die Berechnung von Geschwindigkeitsempfehlungen während der Fahrt ist vor Fahrtbeginn die Berechnung der Fahrtroute notwendig. Dazu sind vom Nutzer die Eingabe folgender Informationen notwendig:
+
 - Start
 - Ziel
 - Fahrradtyp
@@ -48,6 +49,7 @@ Zweck der Fahrtroute während der Nutzung der App:
 - Bereitstellung von Navigationsanweisungen
 
 Standort (während der Fahrt)Während der Fahrt (nach Betätigen des Start-Buttons) werden kontinuierlich Standortinformationen des Nutzergerätes an die Backend-Dienste übermittelt. Dies sind die folgenden, per GNSS durch das Nutzergerät erfassten, Daten:
+
 - GNSS-Position: 
     - Latitude
     - Longitude
@@ -60,6 +62,7 @@ Standort (während der Fahrt)Während der Fahrt (nach Betätigen des Start-Butto
 Standortdaten werden mit der Frequenz von bis zu 1 Hz erfasst und zeitnah (je nach Verfügbarkeit einer Kommunikationsverbindung) an den Backend-Dienst übertragen. Zusätzlich wir ein anonymer Identifikator (Session-ID) für die jeweils aufzuzeichnende Session der PrioBike App bzw. der Datenerfassungskomponente festgelegt und mit jedem Datenset versendet.
 
 Zweck der Standortdaten während der Nutzung der App:
+
 - Ermittlung der Geschwindigkeit, Fahrtrichtung und Entfernung von der nächsten LSA
 - In Kombination mit der Fahrtroute Ermittlung der nächsten Signalgruppe
 - Ermittlung eines Abweichens von der Fahrtroute 
@@ -71,15 +74,18 @@ Erweiterte Datenerfassung
 Die erweiterte Datenerfassung wird nur während der Alpha- und Betatestphase durchgeführt. Im Folgenden werden die Sensoren und die zu erfassenden Daten aufgelistet.
 #### Smartphone-Sensoren
 Während der Fahrt können die folgenden weiteren Smartphone-Sensoren abgetastet werden. Folgende Sensordaten können zusätzlich zum GNSS-Standort mit einer Abtastfrequenz von 100 Hz erfasst werden:
+
 - 3-Achsen Beschleunigungsdaten mit 100 Hz Abtastrate
 - 3-Achsen Rotationsdaten mit 100 Hz Abtastrate
 - 3-Achsen Magnetometerdaten mit 100 Hz Abtastrate
 
 #### Smartwatch-Sensoren
+
 - O2-Sättigung
 - Puls
 
 #### Zusätzliche Sensoren am Fahrrad
+
 - Geschwindigkeitssensor
 - Trittfrequenz
 - Sensoren zur Abstandsmessung überholender Kfz
@@ -87,8 +93,8 @@ Während der Fahrt können die folgenden weiteren Smartphone-Sensoren abgetastet
 #### Erfassung von Fehlermeldungen
 Während der Alpha- und Betatestphase wird die Sentry-Application Monitorung und Error Tracking Software genutzt, dazu wurde eine Instanz auf einem Server der TU Dresden installiert.
 Beim Absturz der App werden automatisiert Crashreports erstellt und die folgenden Daten an das Backend übermittelt. 
-Gerätetyp \
-… \
+Gerätetyp  
+…  
 Diese Daten dienen dem Erfassen und Beseitigen von Fehlern im Quellcode der App.
 #### Nutzersessions
 Bei jeder Nutzung der App wird eine Nutzersession angelegt. Diese ist notwendig, um einzelne Nutzer während der Session wiederzuerkennen. Das ist zum Beispiel beim Routing und beim Anzeigen der berechneten Fahrempfehlungen notwendig. Darüber hinaus wird die Session-ID benötigt, um die aufgezeichneten Daten einer Session zuordnen und auswerten zu können.Bei jedem Start der App wird eine neue zufällige Session-ID erzeugt. Aus dieser lassen sich keine Rückschlüsse auf die Nutzenden und auf vorherige Sessions ziehen. Mit Beenden der App wird auch die Session-ID vom Endgerät gelöscht.Die beschriebene Datenschutzmaßnahme ist bereits implementiert und kommt zur Anwendung.
@@ -128,21 +134,21 @@ Rechtsgrundlage für die Verarbeitung:
 
 
 ### Zusammenfassung 
-\
-An der Durchführung des Datenschutzpapiers Beteiligte \
-\
-Verantwortlicher \
-Institution: TU Dresden, Professur für Verkehrsprozessautomatisierung \
-Straße: Hettnerstr. 3 \
-PLZ/ Ort: 01062 Dresden \
-Telefon: 0351 463 36718 \
+  
+An der Durchführung des Datenschutzpapiers Beteiligte  
+  
+Verantwortlicher  
+Institution: TU Dresden, Professur für Verkehrsprozessautomatisierung  
+Straße: Hettnerstr. 3  
+PLZ/ Ort: 01062 Dresden  
+Telefon: 0351 463 36718  
 E-Mail: priobike@msx.tu-dresden.de
 
-Datenschutzbeauftragter \
-Behörde für Wirtschaft, Verkehr und Innovation \
-Straße: Alter Steinweg 4 \
-PLZ/ Ort: 20459 Hamburg \
-Telefon: +49 40 428 41-1807 \
+Datenschutzbeauftragter  
+Behörde für Wirtschaft, Verkehr und Innovation  
+Straße: Alter Steinweg 4  
+PLZ/ Ort: 20459 Hamburg  
+Telefon: +49 40 428 41-1807  
 E-Mail: datenschutz@bwvi.hamburg.de￼ https://sentry.io
 
 Anonymisiert: Session-ID wie beschrieben, Anfang und Ende abgeschnitten, längere Aufenthalte an einem Ort entfernt.
