@@ -11,6 +11,9 @@ RUN echo ' <!DOCTYPE html> \n\
 <head> \n\
 <meta charset="UTF-8"> \n\
 <title>Datenschutzerklärung</title> \n\
+<style> \n\
+  * {font-family: sans-serif;} \n\
+</style> \n\
 </head> \n\
 <body>' >> index.html
 RUN cat md.html >> index.html
