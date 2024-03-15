@@ -2,7 +2,7 @@ FROM nginx
 
 COPY privacy-policy.md /root/privacy-policy.md
 
-RUN cp privacy-policy.md /usr/share/nginx/html/privacy-policy.md
+RUN cp /root/privacy-policy.md /usr/share/nginx/html/privacy-policy.md
 
 RUN apt update 
 RUN apt install python3-markdown -y 
