@@ -1,7 +1,5 @@
 FROM nginx
 
-COPY default.conf /etc/nginx/conf.d/default.conf
-
 COPY privacy-policy.md /root/privacy-policy.md
 
 RUN cp /root/privacy-policy.md /usr/share/nginx/html/privacy-policy.md
