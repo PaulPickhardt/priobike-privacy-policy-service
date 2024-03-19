@@ -135,7 +135,7 @@ Rechtsgrundlage für die Verarbeitung:
 
 ### Zusammenfassung 
   
-An der Durchführung des Datenschutzpapiers Beteiligte  
+An der Durchführung des Datenschutzpapiers Beteiligte:  
   
 Verantwortlicher  
 Institution: TU Dresden, Professur für Verkehrsprozessautomatisierung  
