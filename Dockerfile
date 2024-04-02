@@ -1,4 +1,6 @@
-FROM nginx
+ARG ENVIRONMENT=release
+
+FROM bikenow.vkw.tu-dresden.de/priobike/priobike-nginx:${ENVIRONMENT}
 
 COPY privacy-policy.md /root/privacy-policy.md
 
