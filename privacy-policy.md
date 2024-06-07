@@ -2,7 +2,7 @@
 ## Datenschutzerklärung zur Verarbeitung personenbezogener Daten im Rahmen des Forschungsprojekts „ProBike“
 
 
-#### Für welche Zwecke sollen personenbezogene Daten verarbeitet werden und wie funktioniert die App?
+### Für welche Zwecke sollen personenbezogene Daten verarbeitet werden und wie funktioniert die App?
 
 Die PrioBike App wird im Rahmen des Verbundprojektes PrioBike-HH an der Professur für Distributed and Networked Systems der Technischen Universität Dresden in Zusammenarbeit mit der Professur für Verkehrsprozessautomatisierung der Technischen Universität Dresden sowie Einrichtungen der Stadt Hamburg, der INAVET GmbH, Yunex Traﬃc konzipiert, umgesetzt und unter realen Bedingungen stadtweit in Hamburg evaluiert.
 
@@ -15,7 +15,7 @@ Vor Fahrtbeginn werden Start- und Endpunkt, weitere Wegpunkte der geplanten Rout
 Die Datenverarbeitung durch die TU Dresden erfolgt ausschließlich zu wissenschaftlichen Zwecken im Forschungsprojekt PrioBike.
 
 
-#### Wer ist für die Datenverarbeitung verantwortlich und an wen können sich Betroffene wenden?
+### Wer ist für die Datenverarbeitung verantwortlich und an wen können sich Betroffene wenden?
 
 Technische Universität Dresden  
 Ansprechpartner:in:     
@@ -33,12 +33,12 @@ Tel.: +49 (0)351 463-32839
 E-Mail: informationssicherheit@tu-dresden.de        
 
 
-#### Auf welcher Rechtsgrundlage erfolgt die Verarbeitung personenbezogener Daten?
+### Auf welcher Rechtsgrundlage erfolgt die Verarbeitung personenbezogener Daten?
 
 Die Rechtsgrundlage für die Datenverarbeitung zu den oben genannten Zwecken ist Art. 6 Abs. 1 UAbs. 1 lit. a DSGVO (Einwilligung). Die Vorgaben des § 12 SächsDSDG für die Verarbeitung personenbezogener Daten zu Forschungszwecken werden beachtet.
 
 
-#### Welche personenbezogenen Daten werden verarbeitet?
+### Welche personenbezogenen Daten werden verarbeitet?
 
 Die PrioBike App bietet ihnen digitale Dienste für ein komfortableres bzw. schnelleres Radfahren an, insbesondere die Berechnung von Routen und Fahrtinformationen für eine digitale grüne Welle. Für die Forschungszwecke von ProBike werden die folgenden personenbezogenen bzw. personenbeziehbaren Daten erhoben und gespeichert:   
 
@@ -63,7 +63,7 @@ Zweck: Das Nutzerfeedback wird benötigt, um Fehler in der App zu erkennen und z
 Zweck: Die IP-Adresse werden benötigt, um Angriﬀe auf die PrioBike-Services zu erkennen und zu vermeiden, bei denen diese gezielt durch große Anfragemengen überlastet werden sollen.
 
 
-#### Wie werden die personenbezogenen Daten verarbeitet und wie lange werden sie gespeichert?
+### Wie werden die personenbezogenen Daten verarbeitet und wie lange werden sie gespeichert?
 
 Aus diesen Daten wird die gefahrene Strecke inklusive des Datums und der Uhrzeit ermittelt. Die weiteren zur Fahrtroute und deren Berechnung erfassten Daten werden nur anonymisiert ausgewertet. 
 
@@ -72,7 +72,7 @@ Zur Vermeidung von Missbrauch und zum Abwenden von Angriﬀen, bei denen der Ser
 Merkmale, mit deren Hilfe ein Personenbezug hergestellt werden kann, werden gelöscht, sobald der Forschungszweck dies zulässt (spätestens mit Abschluss der Studie). Zum Zweck der guten wissenschaftlichen Praxis werden die Daten für maximal 10 Jahre gespeichert, beispielsweise um Forschungsergebnisse reproduzieren bzw. evaluieren zu können.
 
 
-#### Werden personenbezogene Daten an Dritte übermittelt?
+### Werden personenbezogene Daten an Dritte übermittelt?
 
 Für die Darstellung des Kartenmaterials innerhalb der App nutzen wir die Mapbox API des amerikanischen Softwareunternehmens Mapbox Inc.. Mapbox ist ein Online-Kartentool (Open-Source-Mapping), das über eine Schnittstelle (API) abgerufen wird. Mapbox erfasst standardmäßig Ortsinformationen und zugehörige technische Daten des Gerätes, die nach Angaben von Mapbox sofort anonymisiert und aggregiert werden. Die Datenerfassung dient laut Mapbox ausschließlich zur Verbesserung der Mapbox Dienste. Die Erfassung der Daten kann vom Nutzer über die Nutzerschnittstelle der Mapbox- Kartendarstellung abgewählt werden (opt-out). Detaillierte Informationen zur Mapbox Location Telemetry können unter https://www.mapbox.com/telemetry abgerufen werden.
 
@@ -81,26 +81,26 @@ Für die Datenerhebung im Rahmen der App wird ein Dienstleister (flow.d) eingese
 Ansonsten erfolgt keine Übermittlung von personenbezogenen Daten an Dritte. Die am Projekt PrioBike-HH beteiligten Einrichtungen der Stadt Hamburg sollen anonymisierte und aggregierte Bewegungsdaten erhalten, konkret Verkehrsmengen über Fahrbahnsegmente mit Angaben zur Anzahl der Befahrungen und den genutzten Fahrradtypen.
 
 
-#### Erfolgt eine Veröffentlichung personenbezogener Daten?
+### Erfolgt eine Veröffentlichung personenbezogener Daten?
 
 Die Forschungsergebnisse werden in wissenschaftlich üblicher Form veröffentlicht. Wir sichern zu, dass aus den Veröffentlichungen keinerlei Rückschlüsse auf Ihre Person möglich sind. 
 
 
-#### Welche Rechte haben Betroffene grundsätzlich?
+### Welche Rechte haben Betroffene grundsätzlich?
 
-<ins>Freiwilligkeit und Widerruf (Art. 7 Abs. 3 DSGVO)</ins>    
+*Freiwilligkeit und Widerruf (Art. 7 Abs. 3 DSGVO)*     
 Die Angabe personenbezogener Daten ist freiwillig. Die Einwilligung kann verweigert beziehungsweise jederzeit formlos und ohne Angabe von Gründen bei der/dem Verantwortlichen widerrufen werden. Ihre personenbezogenen Daten werden daraufhin nicht mehr verarbeitet. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung bleibt hiervon unberührt.
 
-<ins>Auskunftsrecht (Art. 15 DSGVO)</ins>   
+*Auskunftsrecht (Art. 15 DSGVO)*   
 Sie haben das Recht, jederzeit Auskunft über die zu Ihrer Person verarbeiteten Daten sowie die möglichen Empfänger:innen dieser Daten zu verlangen. Ihnen steht eine Antwort innerhalb einer Frist von einem Monat nach Eingang des Auskunftsersuchens zu.
 
-<ins>Recht auf Berichtigung, Löschung und Einschränkung (Art. 16-18 DSGVO)</ins>    
+*Recht auf Berichtigung, Löschung und Einschränkung (Art. 16-18 DSGVO)*    
 Sie können jederzeit gegenüber der TU Dresden die Berichtigung oder Löschung Ihrer personenbezogenen Daten oder die Einschränkung der Verarbeitung verlangen. 
 
-<ins>Recht auf Datenübertragbarkeit (Art. 20 DSGVO) </ins>  
+*Recht auf Datenübertragbarkeit (Art. 20 DSGVO)*  
 Sie können verlangen, dass der/die Verantwortliche Ihnen Ihre personenbezogenen Daten in maschinenlesbarer Form übermittelt. Alternativ können Sie die direkte Übermittlung der von Ihnen bereitgestellten personenbezogenen Daten an eine:n andere:n Verantwortliche:n verlangen, soweit dies möglich ist.
 
-<ins>Beschwerderecht (Art. 77 DSGVO)</ins>  
+*Beschwerderecht (Art. 77 DSGVO)*  
 Sie können sich jederzeit an den Datenschutzbeauftragten der TU Dresden (siehe oben) sowie bei einer Beschwerde nach Art. 77 DSGVO an eine Aufsichtsbehörde zum Datenschutz wenden. 
 
 **Die für die TU Dresden zuständige Aufsichtsbehörde ist:**     
@@ -112,4 +112,4 @@ Devrientstraße 5
 Tel.: +49 (0) 351 85471 101     
 E-Mail: post@sdtb.sachsen.de        
 
-<ins>Hinweis</ins>: Zur Inanspruchnahme der Rechte genügt eine Mitteilung in Textform (Brief, E-Mail) an Herrn Thomas Springer (thomas.springer@tu-dresden.de). Die Inanspruchnahme der Rechte entfaltet jedoch nur eine Wirkung, wenn durch die verarbeiteten Daten eine Identifizierung Ihrer Person möglich ist.
+**Hinweis**: Zur Inanspruchnahme der Rechte genügt eine Mitteilung in Textform (Brief, E-Mail) an Herrn Thomas Springer (thomas.springer@tu-dresden.de). Die Inanspruchnahme der Rechte entfaltet jedoch nur eine Wirkung, wenn durch die verarbeiteten Daten eine Identifizierung Ihrer Person möglich ist.
