@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: staging
+spec:
+    replicas: 1
+    selector: 
+      matchLabels:
+        app: privacy-policy
+    template:
+      metadata: 
+        labels: 
+          app: privacy-policy
+      spec:
+        containers:
+        - name: privacy-policy-service-container
+          image: bikenow.vkw.tu-dresden.de/priobike/priobike-privacy-policy-service:main
+          ports:
+          - containerPort: 80
+        imagePullSecrets:
+        - name: regcred
